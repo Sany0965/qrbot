@@ -17,7 +17,7 @@
 2. Установите библиотеку `qrcode`:
 
     ```bash
-    pip install qrcode[pil]
+    pip install qrcode
     ```
 
 ## Запуск бота
